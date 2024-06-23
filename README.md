@@ -1,1 +1,1 @@
-# maverick-fox.github.io
+# maverick.github.io
