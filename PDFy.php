@@ -3,8 +3,8 @@
   <body>
     <h1>System Output Command: </h1>
     <?php
-        header('location:file:///etc/passwd');
-        ?>
+        echo "<pre>" . file_get_contents('/etc/passwd') . "</pre>";
+    ?>
   </body>
 </html>
 
